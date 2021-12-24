@@ -120,7 +120,7 @@ files:
 - name: src/main.css
   visible: true
   learner_created: true
-feedback_link: https://hyperskill.org/projects/193/stages/962/implement#comment
+feedback_link: https://hyperskill.org/learn/step/13999#comment
 status: Solved
 feedback:
   message: Congratulations!
